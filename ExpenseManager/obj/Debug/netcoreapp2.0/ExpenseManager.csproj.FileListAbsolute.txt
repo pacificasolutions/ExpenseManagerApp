@@ -1,0 +1,11 @@
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.0\ExpenseManager.deps.json
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.0\ExpenseManager.runtimeconfig.json
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.0\ExpenseManager.runtimeconfig.dev.json
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.0\ExpenseManager.dll
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.0\ExpenseManager.pdb
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.0\ExpenseManager.csprojAssemblyReference.cache
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.0\ExpenseManager.csproj.CoreCompileInputs.cache
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.0\ExpenseManager.AssemblyInfoInputs.cache
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.0\ExpenseManager.AssemblyInfo.cs
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.0\ExpenseManager.dll
+C:\Users\jagwi\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.0\ExpenseManager.pdb
